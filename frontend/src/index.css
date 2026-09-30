@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-slate-50 text-gray-900 antialiased font-sans min-h-screen m-0 p-0;
+  }
+}

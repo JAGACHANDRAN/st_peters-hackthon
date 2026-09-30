@@ -1,0 +1,46 @@
+{
+  "app_name": "Finance Empowerment Platform",
+  "app_tagline": "Simple, trustworthy financial guidance for rural women entrepreneurs",
+  "nav": {
+    "dashboard": "Dashboard",
+    "budget": "Budget",
+    "goals": "Savings",
+    "loans": "Find Loans",
+    "advisor": "AI Advisor",
+    "payments": "Demo Wallet",
+    "learn": "Learn",
+    "admin": "Admin",
+    "login": "Login",
+    "register": "Sign Up",
+    "logout": "Logout"
+  },
+  "disclaimer": {
+    "loan": "Guidance only. Final eligibility, interest rate and approval are decided by the bank or scheme authority.",
+    "payment": "Demo transaction. A real balance must be confirmed with the bank."
+  },
+  "common": {
+    "save": "Save Changes",
+    "continue": "Continue",
+    "back": "Back",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "loading": "Loading information...",
+    "error_title": "Something went wrong",
+    "retry": "Try Again",
+    "rupee": "₹",
+    "verified_on": "Verified on",
+    "not_verified": "Not verified yet - check official portal",
+    "official_portal": "Check on official site",
+    "per_month": "/ month",
+    "months": "months"
+  },
+  "verdicts": {
+    "eligible": "Eligible",
+    "maybe": "Partially Eligible / Info Needed",
+    "not_eligible": "Not Eligible",
+    "comfortable": "Comfortable & Safe",
+    "tight": "Manageable but Tight",
+    "risky": "High Risk",
+    "not_affordable": "Not Affordable Right Now"
+  }
+}
